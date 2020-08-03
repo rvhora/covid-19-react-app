@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+@media (max-width:777px){
+   .container{ width:100% }
+}
